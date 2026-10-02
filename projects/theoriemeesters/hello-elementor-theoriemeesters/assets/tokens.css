@@ -1,0 +1,31 @@
+:root {
+  --navy: #0b2545;
+  --navy-2: #163a66;
+  --sky: #54a3d8;
+  --sky-light: #81bbe1;
+  --yellow: #ffcc00;
+  --yellow-hover: #ffd633;
+  --white: #ffffff;
+  --page: #f4f7fa;
+  --panel: #e8eef4;
+  --border: #dedede;
+  --control: #7b8794;
+  --text: var(--navy);
+  --muted: #5a6572;
+  --inverse: #ffffff;
+  --error: #b42318;
+  --font-sans: Montserrat, system-ui, sans-serif;
+  --r-sm: 4px;
+  --r-md: 6px;
+  --r-lg: 8px;
+  --btn: 36px;
+  --btn-lg: 48px;
+  --gutter: 40px;
+  --section: 88px;
+  --h-display: 44px;
+  --h1: 38px;
+  --h2: 30px;
+  --h3: 22px;
+  --r: 5;
+  --p: 50;
+}

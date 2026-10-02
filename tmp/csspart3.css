@@ -1,0 +1,5 @@
+oocommerce ul.products li.product { width: 100% !important; margin: 0 !important; float: none !important; clear: none !important; }
+.site .elementor-widget-woocommerce-products .woocommerce ul.products { display: grid !important; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; list-style: none; padding: 0; margin: 0; }
+.site .elementor-widget-woocommerce-products .woocommerce ul.products::before,
+.site .elementor-widget-woocommerce-products .woocommerce ul.products::after { display: none; }
+.site .elementor-widget-woocommerce-products .woocommerce ul.products li.product { width: 100% !important; margin: 0 !important; float: none !important; clear: none !important; }

@@ -1,0 +1,8 @@
+{
+  "name": "epa-wordpress-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "hello-elementor-child": "node scripts/hello-elementor-child-theme/index.mjs"
+  }
+}

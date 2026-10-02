@@ -1,0 +1,7 @@
+{
+    "mcpServers": {
+        "emcp-dev1-dev045-nl": {
+            "url": "https://dev1.dev045.nl/wp-json/mcp/emcp-tools-server"
+        }
+    }
+}

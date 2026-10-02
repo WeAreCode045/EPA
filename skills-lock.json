@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "wordpress-elementor": {
+      "source": "jezweb/claude-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/wordpress/skills/wordpress-elementor/SKILL.md",
+      "computedHash": "735097295b1c593671d0833c3e9fea335274a2bca13ca3a38da32132bc534650"
+    }
+  }
+}

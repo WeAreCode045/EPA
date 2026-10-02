@@ -1,0 +1,28 @@
+:root {
+  --color-primary: #0b2545;
+  --color-secondary: #54a3d8;
+  --color-text: #0b2545;
+  --color-accent: #ffcc00;
+  --color-muted: #5a6572;
+  --color-border: #dedede;
+  --color-page-bg: #f4f7fa;
+  --font-family-heading: "Montserrat", sans-serif;
+  --font-family-body: "Montserrat", sans-serif;
+  --font-size-heading: 38px;
+  --font-size-subheading: 22px;
+  --font-size-body: 16px;
+  --font-weight-heading: 700;
+  --font-weight-body: 400;
+  --line-height-body: 1.6;
+  --button-background: #ffcc00;
+  --button-text: #0b2545;
+  --button-hover-background: #ffd633;
+  --button-hover-text: #0b2545;
+  --button-radius: 6px;
+  --form-field-text: #0b2545;
+  --form-field-background: #ffffff;
+  --form-field-border: #dedede;
+  --form-label: #0b2545;
+  --form-field-radius: 6px;
+  --container-width: 1600px;
+}
